@@ -124,11 +124,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jinaw\\Documents\\GitHub\\6-C-Sharp-Login-Form-Sign-Up\\Fasetto.Word\\Fasetto.Word\\Fasetto.Word.csproj",
+      "projectUniqueName": "C:\\Users\\jinaw\\Documents\\GitHub\\8-C-Sharp-Storyboard-Animations\\Fasetto.Word\\Fasetto.Word\\Fasetto.Word.csproj",
       "projectName": "Fasetto.Word",
-      "projectPath": "C:\\Users\\jinaw\\Documents\\GitHub\\6-C-Sharp-Login-Form-Sign-Up\\Fasetto.Word\\Fasetto.Word\\Fasetto.Word.csproj",
+      "projectPath": "C:\\Users\\jinaw\\Documents\\GitHub\\8-C-Sharp-Storyboard-Animations\\Fasetto.Word\\Fasetto.Word\\Fasetto.Word.csproj",
       "packagesPath": "C:\\Users\\jinaw\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jinaw\\Documents\\GitHub\\6-C-Sharp-Login-Form-Sign-Up\\Fasetto.Word\\Fasetto.Word\\obj\\",
+      "outputPath": "C:\\Users\\jinaw\\Documents\\GitHub\\8-C-Sharp-Storyboard-Animations\\Fasetto.Word\\Fasetto.Word\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jinaw\\AppData\\Roaming\\NuGet\\NuGet.Config",
