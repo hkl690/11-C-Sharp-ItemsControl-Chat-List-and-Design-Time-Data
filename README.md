@@ -8,3 +8,4 @@ Sample output of the Window pop-up box:
 https://github.com/hkl690/7-C-Sharp-Attached-Properties-for-Password/blob/main/Fasetto.Word/Fasetto.Word/Images/Logo/LoginPageAttachedProperties.PNG?raw=true
 
 Sample output when hovering over, there is animation added:
+https://github.com/hkl690/8-C-Sharp-Storyboard-Animations/blob/main/Fasetto.Word/Fasetto.Word/Images/Logo/LoginPageHoverAndAnimate.PNG?raw=true
