@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Wan2sBiJhsJVmFaZe7pp8OkNzCggD2K2z7fGBpAPxOO6+pQcd7uvMr0FmrNOouDGSAsKkZS8Wj1UPLyIyuB5JA==",
+  "dgSpecHash": "Iira1a2fEqaxrsmQUutN2PWTlBkeDKK/1FMjKsI54LdrEXrxGAnDyrsITuBzcZbYfQOS3YpwvZwrpTBd2FoSug==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jinaw\\Documents\\GitHub\\8-C-Sharp-Storyboard-Animations\\Fasetto.Word\\Fasetto.Word\\Fasetto.Word.csproj",
+  "projectFilePath": "C:\\Users\\jinaw\\Documents\\GitHub\\9-C-Sharp-Advanced-View-Model-Binding-To-Login-Page\\Fasetto.Word\\Fasetto.Word\\Fasetto.Word.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jinaw\\.nuget\\packages\\fody\\6.6.2\\fody.6.6.2.nupkg.sha512",
     "C:\\Users\\jinaw\\.nuget\\packages\\microsoft.windows.shell\\3.0.1\\microsoft.windows.shell.3.0.1.nupkg.sha512",

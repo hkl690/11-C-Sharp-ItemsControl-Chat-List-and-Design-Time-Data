@@ -9,8 +9,9 @@ namespace Fasetto.Word
     public class RelayCommand : ICommand
     {
         #region Private Members
+
         /// <summary>
-        /// the action to run
+        /// The action to run
         /// </summary>
         private Action mAction;
 
@@ -19,13 +20,14 @@ namespace Fasetto.Word
         #region Public Events
 
         /// <summary>
-        /// The event that's fired when the <see cref=CanExecute(object)"/> value has changed
+        /// The event thats fired when the <see cref="CanExecute(object)"/> value has changed
         /// </summary>
-        public event EventHandler CanExecuteChanged = (sender,e) => { };
+        public event EventHandler CanExecuteChanged = (sender, e) => { };
 
         #endregion
 
         #region Constructor
+
         /// <summary>
         /// Default constructor
         /// </summary>
@@ -33,6 +35,7 @@ namespace Fasetto.Word
         {
             mAction = action;
         }
+
         #endregion
 
         #region Command Methods
@@ -45,13 +48,13 @@ namespace Fasetto.Word
         public bool CanExecute(object parameter)
         {
             return true;
-        }       
+        }
 
         /// <summary>
-        /// Execute the commands Action
+        /// Executes the commands Action
         /// </summary>
         /// <param name="parameter"></param>
-        public void Execute(object? parameter)
+        public void Execute(object parameter)
         {
             mAction();
         }

@@ -31,5 +31,10 @@ namespace Fasetto.Word
         {
 
         }
+
+        private void MainFrame_Navigated_1(object sender, NavigationEventArgs e)
+        {
+
+        }
     }
 }
