@@ -12,7 +12,7 @@
         Icon="Images/Logo/robotxgames.png"
         MinWidth="{Binding WindowMinimumWidth}"
         MinHeight="{Binding WindowMinimumHeight}"
-        Title="Welcome, Friend!" Height="600" Width="900">
+        Title="Welcome, friend!" Height="600" Width="900">
 
     <Window.Resources>
         <Style TargetType="{x:Type local:MainWindow}">
@@ -50,7 +50,7 @@
 
                                         <!-- Title Bar -->
                                         <RowDefinition Height="{Binding TitleHeightGridLength, FallbackValue=42}" />
-                                       
+
                                         <!-- Window Content -->
                                         <RowDefinition Height="*" />
 
@@ -97,8 +97,7 @@
                                     <Border Grid.Row="1" Padding="{Binding InnerContentPadding}">
                                         <ContentPresenter Content="{TemplateBinding Content}" />
                                     </Border>
-                                    
-                                    
+
                                 </Grid>
 
                             </Grid>
@@ -118,9 +117,15 @@
             />
     </WindowChrome.WindowChrome>
 
-    <Grid Background="{StaticResource ForegroundLightBrush}">
+    <Border Background="{StaticResource WordBlueBrush}">
+        <Grid>
+            <!-- Blue background image -->
+            <Grid.Background>
+                <ImageBrush TileMode="Tile" ViewportUnits="Absolute" Viewport="0 0 500 500" ImageSource="Images/Logo/robotxgames.png" />
+            </Grid.Background>
 
-        <Frame x:Name="MainFrame" Content="{Binding CurrentPage, Converter={local:ApplicationPageValueConverter}}" Navigated="MainFrame_Navigated" />
-    </Grid>
+            <Frame x:Name="MainFrame" Content="{Binding CurrentPage, Converter={local:ApplicationPageValueConverter}}" Background="Transparent" Navigated="MainFrame_Navigated_1" />
+        </Grid>
+    </Border>
 
 </Window>
