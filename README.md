@@ -1,4 +1,4 @@
-# 8-C-Sharp Storyboard Animations
+# 9-C-Sharp Advanced View Model Bindng to Login Page
  
 Creating a simple pop-up Window with menu commands and can be resized. A logo is added in the title for customization. The login textbox has been animated to slide in from the right and fade out to the left when pressed. The "Login" button changes color from orange to blue when the mouse hovers over it, and Login now has a spinning icon to represent waiting.
 
