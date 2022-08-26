@@ -5,7 +5,7 @@ Creating a simple pop-up Window with menu commands and can be resized. A logo is
 This is an ongoing project from a C# WPF tutorial. 
 
 Sample output when hovering over, there is animation added:
-https://github.com/hkl690/8-C-Sharp-Storyboard-Animations/blob/main/Fasetto.Word/Fasetto.Word/Images/Logo/LoginPageHoverAndAnimate.PNG?raw=true
+https://github.com/hkl690/9-C-Sharp-Advanced-View-Model-Binding-To-Login-Page/blob/main/Fasetto.Word/Fasetto.Word/Images/Logo/9-Login.PNG?raw=true
 
 Sample output when pressing Login, the button shows a spinning icon (supposed to represent waiting, will need to try to fix the imagery in upcoming version):
 https://github.com/hkl690/9-C-Sharp-Advanced-View-Model-Binding-To-Login-Page/blob/main/Fasetto.Word/Fasetto.Word/Images/Logo/SpinningIcon.PNG?raw=true
