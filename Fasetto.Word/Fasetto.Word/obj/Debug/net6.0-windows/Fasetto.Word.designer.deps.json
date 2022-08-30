@@ -18,12 +18,6 @@
       "PropertyChanged.Fody/3.4.1": {
         "dependencies": {
           "Fody": "6.6.2"
-        },
-        "runtime": {
-          "lib/netstandard2.1/PropertyChanged.dll": {
-            "assemblyVersion": "3.4.1.0",
-            "fileVersion": "3.4.1.0"
-          }
         }
       }
     }
