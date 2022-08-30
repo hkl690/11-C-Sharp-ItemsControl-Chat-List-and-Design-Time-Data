@@ -10,5 +10,5 @@ https://github.com/hkl690/10-C-Sharp-User-Controls-Side-Menu-Content/blob/main/F
 Sample output when hovering over, there is animation added:
 https://github.com/hkl690/9-C-Sharp-Advanced-View-Model-Binding-To-Login-Page/blob/main/Fasetto.Word/Fasetto.Word/Images/Logo/9-Login.PNG?raw=true
 
-Sample output when pressing Login, the button shows a spinning icon (supposed to represent waiting, will need to try to fix the imagery in upcoming version):
+Sample output when pressing Login, the button should show a spinning icon:
 https://github.com/hkl690/9-C-Sharp-Advanced-View-Model-Binding-To-Login-Page/blob/main/Fasetto.Word/Fasetto.Word/Images/Logo/SpinningIcon.PNG?raw=true
