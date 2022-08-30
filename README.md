@@ -1,6 +1,6 @@
 # 10-C-Sharp User Controls Side Menu Content
  
-Creating a simple pop-up Window with menu commands and can be resized. A logo is added in the title for customization. The login textbox has been animated to slide in from the right and fade out to the left when pressed. The "Login" button changes color from orange to blue when the mouse hovers over it, and Login now has a spinning icon to represent waiting.
+Creating a simple pop-up Window with menu commands and can be resized. A logo is added in the title for customization. A side menu is being added that will continue to be updated in the next upcoming projects.
 
 This is an ongoing project from a C# WPF tutorial. 
 
