@@ -1,0 +1,11 @@
+C:\Users\jinaw\Documents\GitHub\10-C-Sharp-User-Controls-Side-Menu-Content\Fasetto.Word\Fasetto.Word.Core\bin\Debug\netstandard2.0\Fasetto.Word.Core.deps.json
+C:\Users\jinaw\Documents\GitHub\10-C-Sharp-User-Controls-Side-Menu-Content\Fasetto.Word\Fasetto.Word.Core\bin\Debug\netstandard2.0\Fasetto.Word.Core.dll
+C:\Users\jinaw\Documents\GitHub\10-C-Sharp-User-Controls-Side-Menu-Content\Fasetto.Word\Fasetto.Word.Core\bin\Debug\netstandard2.0\Fasetto.Word.Core.pdb
+C:\Users\jinaw\Documents\GitHub\10-C-Sharp-User-Controls-Side-Menu-Content\Fasetto.Word\Fasetto.Word.Core\obj\Debug\netstandard2.0\Fasetto.Word.Core.csproj.AssemblyReference.cache
+C:\Users\jinaw\Documents\GitHub\10-C-Sharp-User-Controls-Side-Menu-Content\Fasetto.Word\Fasetto.Word.Core\obj\Debug\netstandard2.0\Fasetto.Word.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jinaw\Documents\GitHub\10-C-Sharp-User-Controls-Side-Menu-Content\Fasetto.Word\Fasetto.Word.Core\obj\Debug\netstandard2.0\Fasetto.Word.Core.AssemblyInfoInputs.cache
+C:\Users\jinaw\Documents\GitHub\10-C-Sharp-User-Controls-Side-Menu-Content\Fasetto.Word\Fasetto.Word.Core\obj\Debug\netstandard2.0\Fasetto.Word.Core.AssemblyInfo.cs
+C:\Users\jinaw\Documents\GitHub\10-C-Sharp-User-Controls-Side-Menu-Content\Fasetto.Word\Fasetto.Word.Core\obj\Debug\netstandard2.0\Fasetto.Word.Core.csproj.CoreCompileInputs.cache
+C:\Users\jinaw\Documents\GitHub\10-C-Sharp-User-Controls-Side-Menu-Content\Fasetto.Word\Fasetto.Word.Core\obj\Debug\netstandard2.0\Fasetto.Word.Core.csproj.Fody.CopyLocal.cache
+C:\Users\jinaw\Documents\GitHub\10-C-Sharp-User-Controls-Side-Menu-Content\Fasetto.Word\Fasetto.Word.Core\obj\Debug\netstandard2.0\Fasetto.Word.Core.dll
+C:\Users\jinaw\Documents\GitHub\10-C-Sharp-User-Controls-Side-Menu-Content\Fasetto.Word\Fasetto.Word.Core\obj\Debug\netstandard2.0\Fasetto.Word.Core.pdb

@@ -30,5 +30,10 @@ namespace Fasetto.Word
         /// the secure password for this login page
         /// </summary>
         public SecureString SecurePassword => PasswordText.SecurePassword;
+
+        private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
+        {
+
+        }
     }
 }

@@ -80,7 +80,7 @@
                                                 <TextBlock FontFamily="{StaticResource LatoBold}" FontSize="{StaticResource FontSizeRegular}" Margin="0,0,0,-5">
                                                     <Run Text="W" Foreground="{StaticResource WordOrangeBrush}" /><Run Text="O" Foreground="{StaticResource WordBlueBrush}" /><Run Text="R" Foreground="{StaticResource WordRedBrush}" /><Run Text="D" Foreground="{StaticResource WordGreenBrush}" />
                                                 </TextBlock>
-                                                <TextBlock Text="by Jina" Foreground="{StaticResource ForegroundDarkBrush}" TextAlignment="Center" />
+                                                <TextBlock Text="by fasetto" Foreground="{StaticResource ForegroundDarkBrush}" TextAlignment="Center" />
                                             </StackPanel>
                                         </Viewbox>
 
@@ -119,12 +119,24 @@
 
     <Border Background="{StaticResource WordBlueBrush}">
         <Grid>
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="300" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+
             <!-- Blue background image -->
             <Grid.Background>
-                <ImageBrush TileMode="Tile" ViewportUnits="Absolute" Viewport="0 0 500 500" ImageSource="Images/Logo/robotxgames.png" />
+                <ImageBrush TileMode="Tile" ViewportUnits="Absolute" Viewport="0 0 500 500" ImageSource="/Images/Backgrounds/robotxgames.png" />
             </Grid.Background>
 
-            <Frame x:Name="MainFrame" Content="{Binding CurrentPage, Converter={local:ApplicationPageValueConverter}}" Background="Transparent" Navigated="MainFrame_Navigated_1" />
+            <Frame Grid.Column="1" x:Name="MainFrame" Content="{Binding CurrentPage, Converter={local:ApplicationPageValueConverter}}" Background="Transparent" />
+
+            <!-- Side Menu -->
+            <local:SideMenuControl>
+
+            </local:SideMenuControl>
+
         </Grid>
     </Border>
 
