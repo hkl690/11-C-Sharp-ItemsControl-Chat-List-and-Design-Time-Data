@@ -7,17 +7,15 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "Fody/6.6.2": {},
-      "Microsoft.Windows.Shell/3.0.1": {
-        "runtime": {
-          "lib/net40/Microsoft.Windows.Shell.dll": {
-            "assemblyVersion": "3.0.1.0",
-            "fileVersion": "3.0.1.0"
-          }
-        }
-      },
       "PropertyChanged.Fody/3.4.1": {
         "dependencies": {
           "Fody": "6.6.2"
+        },
+        "runtime": {
+          "lib/netstandard2.1/PropertyChanged.dll": {
+            "assemblyVersion": "3.4.1.0",
+            "fileVersion": "3.4.1.0"
+          }
         }
       }
     }
@@ -29,13 +27,6 @@
       "sha512": "sha512-/PISk/t+lnNm0tiAc3xer3wp7HVnDCkX7gyTzljbC9kygUBJpYU2V1P/MjJeu/C6JhR40QXr9XdoxvqRmaHlhg==",
       "path": "fody/6.6.2",
       "hashPath": "fody.6.6.2.nupkg.sha512"
-    },
-    "Microsoft.Windows.Shell/3.0.1": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-Kv495vwGhlD8SjmSsf3bTs/Bl5ju0CL/c7aO6mQGWmpxeye9tfprBDrftqpAs1yBJU9OfA2hK3+rLApMg/dUUA==",
-      "path": "microsoft.windows.shell/3.0.1",
-      "hashPath": "microsoft.windows.shell.3.0.1.nupkg.sha512"
     },
     "PropertyChanged.Fody/3.4.1": {
       "type": "package",

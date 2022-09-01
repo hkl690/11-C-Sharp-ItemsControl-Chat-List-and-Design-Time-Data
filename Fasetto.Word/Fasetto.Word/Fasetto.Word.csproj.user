@@ -7,6 +7,12 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="Controls\Chat\ChatListControl.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Controls\Chat\ChatListItemControl.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="Controls\SideMenuControl.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -15,6 +21,12 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Page Update="Controls\Chat\ChatListControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Controls\Chat\ChatListItemControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="Controls\SideMenuControl.xaml">
       <SubType>Designer</SubType>
     </Page>

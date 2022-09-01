@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\jinaw\Documents\GitHub\10-C-Sharp-User-Controls-Side-Menu-Content\Fasetto.Word\Fasetto.Word\obj\Debug\net6.0-windows\
+C:\Users\jinaw\Documents\GitHub\11-C-Sharp-ItemsControl-Chat-List-and-Design-Time-Data\Fasetto.Word\Fasetto.Word\obj\Debug\net6.0-windows\
 Fasetto.Word
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-C:\Users\jinaw\Documents\GitHub\10-C-Sharp-User-Controls-Side-Menu-Content\Fasetto.Word\Fasetto.Word\App.xaml
-9-631739674
+C:\Users\jinaw\Documents\GitHub\11-C-Sharp-ItemsControl-Chat-List-and-Design-Time-Data\Fasetto.Word\Fasetto.Word\App.xaml
+11632357
 1-406629138
-28354892843
-196-1214805077
-Controls\SideMenuControl.xaml;MainWindow.xaml;Pages\ChatPage.xaml;Pages\LoginPage.xaml;Styles\Buttons.xaml;Styles\Colors.xaml;Styles\Fonts.xaml;Styles\Texts.xaml;Styles\Windows.xaml;
+35-376700113
+1951502405206
+Controls\Chat\ChatListControl.xaml;Controls\Chat\ChatListItemControl.xaml;Controls\SideMenuControl.xaml;MainWindow.xaml;Pages\ChatPage.xaml;Pages\LoginPage.xaml;Styles\Buttons.xaml;Styles\Colors.xaml;Styles\Fonts.xaml;Styles\Texts.xaml;Styles\Windows.xaml;
 
-True
+False
 

@@ -8,19 +8,6 @@
           "build/Fody.targets": {}
         }
       },
-      "Microsoft.Windows.Shell/3.0.1": {
-        "type": "package",
-        "compile": {
-          "lib/net40/Microsoft.Windows.Shell.dll": {
-            "related": ".pdb"
-          }
-        },
-        "runtime": {
-          "lib/net40/Microsoft.Windows.Shell.dll": {
-            "related": ".pdb"
-          }
-        }
-      },
       "PropertyChanged.Fody/3.4.1": {
         "type": "package",
         "dependencies": {
@@ -76,19 +63,6 @@
         "netstandardtask/Mono.Cecil.pdb"
       ]
     },
-    "Microsoft.Windows.Shell/3.0.1": {
-      "sha512": "Kv495vwGhlD8SjmSsf3bTs/Bl5ju0CL/c7aO6mQGWmpxeye9tfprBDrftqpAs1yBJU9OfA2hK3+rLApMg/dUUA==",
-      "type": "package",
-      "path": "microsoft.windows.shell/3.0.1",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "lib/net40/Microsoft.Windows.Shell.dll",
-        "lib/net40/Microsoft.Windows.Shell.pdb",
-        "microsoft.windows.shell.3.0.1.nupkg.sha512",
-        "microsoft.windows.shell.nuspec"
-      ]
-    },
     "PropertyChanged.Fody/3.4.1": {
       "sha512": "e0BVdf9bFdjvOMEcYff5jUdvMC36ioHN1Lp7bW1bz0Qjg3rqsfCUhaaIu+K7R9TKBGeX7PlfqAeMqKyrD9cBXw==",
       "type": "package",
@@ -114,7 +88,6 @@
   },
   "projectFileDependencyGroups": {
     "net6.0-windows7.0": [
-      "Microsoft.Windows.Shell >= 3.0.1",
       "PropertyChanged.Fody >= 3.4.1"
     ]
   },
@@ -124,11 +97,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jinaw\\Documents\\GitHub\\10-C-Sharp-User-Controls-Side-Menu-Content\\Fasetto.Word\\Fasetto.Word\\Fasetto.Word.csproj",
+      "projectUniqueName": "C:\\Users\\jinaw\\Documents\\GitHub\\11-C-Sharp-ItemsControl-Chat-List-and-Design-Time-Data\\Fasetto.Word\\Fasetto.Word\\Fasetto.Word.csproj",
       "projectName": "Fasetto.Word",
-      "projectPath": "C:\\Users\\jinaw\\Documents\\GitHub\\10-C-Sharp-User-Controls-Side-Menu-Content\\Fasetto.Word\\Fasetto.Word\\Fasetto.Word.csproj",
+      "projectPath": "C:\\Users\\jinaw\\Documents\\GitHub\\11-C-Sharp-ItemsControl-Chat-List-and-Design-Time-Data\\Fasetto.Word\\Fasetto.Word\\Fasetto.Word.csproj",
       "packagesPath": "C:\\Users\\jinaw\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jinaw\\Documents\\GitHub\\10-C-Sharp-User-Controls-Side-Menu-Content\\Fasetto.Word\\Fasetto.Word\\obj\\",
+      "outputPath": "C:\\Users\\jinaw\\Documents\\GitHub\\11-C-Sharp-ItemsControl-Chat-List-and-Design-Time-Data\\Fasetto.Word\\Fasetto.Word\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jinaw\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -157,10 +130,6 @@
       "net6.0-windows7.0": {
         "targetAlias": "net6.0-windows",
         "dependencies": {
-          "Microsoft.Windows.Shell": {
-            "target": "Package",
-            "version": "[3.0.1, )"
-          },
           "PropertyChanged.Fody": {
             "target": "Package",
             "version": "[3.4.1, )"
@@ -188,17 +157,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'Microsoft.Windows.Shell 3.0.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
-      "libraryId": "Microsoft.Windows.Shell",
-      "targetGraphs": [
-        "net6.0-windows7.0"
-      ]
-    }
-  ]
+  }
 }
