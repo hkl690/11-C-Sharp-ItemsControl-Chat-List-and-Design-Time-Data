@@ -1,23 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "oZjXqCOjy4vyNrqHqprldkrk0rDFyCCMmJw4LxfwxEMQccveWNcRQR61TKs+FaMk1MDdOJpnDJtp6og6j5py0g==",
+  "dgSpecHash": "j5z0TQTG0MjKaisNpTboGbG2IgqAd4L8PIhm/+mR/AXCw3Ty4YnRYkWUxcUdEl8FlIP8J9wUO3P5ru88+xONLA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jinaw\\Documents\\GitHub\\10-C-Sharp-User-Controls-Side-Menu-Content\\Fasetto.Word\\Fasetto.Word\\Fasetto.Word.csproj",
+  "projectFilePath": "C:\\Users\\jinaw\\Documents\\GitHub\\11-C-Sharp-ItemsControl-Chat-List-and-Design-Time-Data\\Fasetto.Word\\Fasetto.Word\\Fasetto.Word.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jinaw\\.nuget\\packages\\fody\\6.6.2\\fody.6.6.2.nupkg.sha512",
-    "C:\\Users\\jinaw\\.nuget\\packages\\microsoft.windows.shell\\3.0.1\\microsoft.windows.shell.3.0.1.nupkg.sha512",
     "C:\\Users\\jinaw\\.nuget\\packages\\propertychanged.fody\\3.4.1\\propertychanged.fody.3.4.1.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'Microsoft.Windows.Shell 3.0.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
-      "libraryId": "Microsoft.Windows.Shell",
-      "targetGraphs": [
-        "net6.0-windows7.0"
-      ]
-    }
-  ]
+  "logs": []
 }
